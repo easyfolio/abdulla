@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "name": "Ananta Abdulla",
+    "first_name": "Ananta",
+    "last_name": "Abdulla",
+    "logo_text": "Ananta.Dev",        
+    "title": "Data Scientist & Machine Learning Engineer",
+    "bio": "Saya seorang Data Scientist dengan fokus pada Machine Learning dan Analisis Data. Saya passionate dalam mengekstrak insight dari data kompleks dan membangun solusi berbasis AI yang berdampak. Dengan pengalaman di berbagai industri, saya berkomitmen untuk mengubah data menjadi keputusan yang dapat ditindaklanjuti.",
+    "profile_picture": "assets/img/photo-profile.jpeg"
+  },
+  "about": {
+    "about_image": "assets/img/photo-about.jpg",
+    "description_p1": "Berbekal latar belakang kuat dalam statistika dan pemrograman, saya senang menjelajahi dataset besar untuk menemukan pola tersembunyi dan memecahkan masalah bisnis yang kompleks. Saya memiliki keahlian dalam membersihkan, menganalisis, dan memvisualisasikan data untuk mendukung pengambilan keputusan strategis.",
+    "description_p2": "Selain itu, saya juga aktif dalam pengembangan model Machine Learning, dari proof-of-concept hingga implementasi dalam produksi. Saya selalu bersemangat untuk belajar teknologi baru dan menerapkan metode inovatif untuk memberikan solusi yang efektif dan efisien.",
+    "education": [
+      {
+        "degree": "S.Kom. - Ilmu Komputer",
+        "institution": "Universitas Brawijaya",
+        "years": "2018 - 2022"
+      },
+      {
+        "degree": "Certified Data Scientist",
+        "institution": "DQLab Course",
+        "years": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Data Scientist",
+        "company": "Analytic Solutions Group",
+        "years": "2023 - Present"
+      },
+      {
+        "position": "Jr. Machine Learning Engineer",
+        "company": "Innovate AI Lab",
+        "years": "2022 - 2023"
+      },
+      {
+        "position": "Data Analyst Intern",
+        "company": "Insightful Data Co.",
+        "years": "2021"
+      }
+    ]
+  },
+  "skills": [
+    { "name": "Python" },
+    { "name": "R Programming" },
+    { "name": "SQL" },
+    { "name": "Machine Learning" },
+    { "name": "Deep Learning" },
+    { "name": "Data Analysis" },
+    { "name": "Data Visualization" },
+    { "name": "Cloud Platforms" },
+    { "name": "Statistical Modeling" },
+    { "name": "Big Data" },
+    { "name": "Predictive Modeling" },
+    { "name": "Leadership" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Predictive Churn Model for Telco",
+      "description": "Developed and deployed a Machine Learning model that predicts customer churn for a telecommunication company, improving retention by 15%. (Python, Scikit-learn, AWS Sagemaker)",
+      "image": "assets/img/project-telco-churn.jpg",
+      "link": "https://github.com/ananta/telco-churn-model"
+    },
+    {
+      "id": 2,
+      "title": "Sentiment Analysis of Social Media",
+      "description": "Built a sentiment analysis pipeline to process large volumes of social media data, providing real-time insights into public opinion. (Python, NLTK, TensorFlow)",
+      "image": "assets/img/project-sentiment.jpg",
+      "link": "https://github.com/ananta/social-sentiment-analysis"
+    },
+    {
+      "id": 3,
+      "title": "Retail Sales Forecasting Dashboard",
+      "description": "Designed an interactive dashboard for retail sales forecasting, enabling better inventory management and sales strategy. (Python, Pandas, Matplotlib, Tableau)",
+      "image": "assets/img/project-retail-dashboard.jpg",
+      "link": "https://github.com/ananta/retail-sales-forecast"
+    },
+    {
+      "id": 4,
+      "title": "Image Classification with CNNs",
+      "description": "Implemented a Convolutional Neural Network for classifying medical images, achieving high accuracy in disease detection. (Python, Keras, TensorFlow)",
+      "image": "assets/img/project-image-classification.jpg",
+      "link": "https://github.com/ananta/medical-image-classification"
+    }
+  ],
+  "contact": {
+    "email": "ananta.abdulla@example.com",
+    "phone": "+62 821 5678 1234",
+    "location": "Malang, East Java, Indonesia"
+  },
+  "social_links": [
+    { "platform": "LinkedIn", "url": "https://linkedin.com/in/anantaabdulla", "icon": "fab fa-linkedin" },
+    { "platform": "Twitter", "url": "https://twitter.com/anantaabdulla", "icon": "fab fa-twitter-square" },
+    { "platform": "Instagram", "url": "https://instagram.com/anantaabdulla", "icon": "fab fa-instagram-square" }
+  ]
+}
